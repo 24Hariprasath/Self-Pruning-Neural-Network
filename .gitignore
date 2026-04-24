@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+data/
+results/
+*.pt
+*.pth
+*.json
+*.log
+*.png
+*.jpg
